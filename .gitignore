@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+weather_cache*
+temp_audio.mp3
